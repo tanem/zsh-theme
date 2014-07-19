@@ -6,7 +6,7 @@ My personal zsh-theme.
 
 ## Installation
 
-Via [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh):
+Using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh):
 
  * Place in `~/.oh-my-zsh/themes`
  * Set `ZSH_THEME="tane"` in `~/.zshrc`
